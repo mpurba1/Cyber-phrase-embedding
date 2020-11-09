@@ -11,4 +11,4 @@ And cite our paper:
    "From Word Embedding to Cyber-Phrase Embedding: Comparison of Processing Cybersecurity Texts"
    
 
-** Cyber-phrase embedding model and mapping will be improved gradually.
+## Cyber-phrase embedding model and mapping will be improved gradually.
