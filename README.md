@@ -1,4 +1,11 @@
 # Cyber-phrase-embedding
-Update soon:
-1) Model
-2) Dataset
+Please find followings from this link https://drive.google.com/drive/folders/1Q-J-KW6571ff206vAmfxz9mv8DoLekHF?usp=sharing
+
+  1. Scrapped data
+  2. Cyber-phrase models
+  3. Mapping program
+
+
+And cite our paper:
+   
+   "From Word Embedding to Cyber-Phrase Embedding: Comparison of Processing Cybersecurity Texts"
