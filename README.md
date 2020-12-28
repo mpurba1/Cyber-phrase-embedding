@@ -7,7 +7,7 @@ Please find followings from this link https://drive.google.com/drive/folders/1Q-
 
 
 And cite our paper:
-   
+   https://ieeexplore.ieee.org/abstract/document/9280541
    "From Word Embedding to Cyber-Phrase Embedding: Comparison of Processing Cybersecurity Texts"
    
 
